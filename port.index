@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="box">
+    <h1>Hello! I'm Meghana 👋</h1>
+    <img src="https://via.placeholder.com/150" alt="Your Photo" style="border-radius: 50%;">
+    <p><strong>Branch:</strong> CSE</p>
+    <p><strong>College:</strong> VIT-AP University</p>
+    <p>I love learning, building new ideas, and growing step by step 💡🚀</p>
+    <p><strong>Contact me:</strong> meghana@example.com</p>
+  </div>
+</body>
+</html>
